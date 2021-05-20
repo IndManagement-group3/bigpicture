@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IndManagement-group3/backend.git
+[submodule "device"]
+	path = device
+	url = https://github.com/IndManagement-group3/device.git
